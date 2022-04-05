@@ -1,15 +1,13 @@
 PacletObject[<|
-	"Name" -> "ConnorGray__Toolbox",
+	"Name" -> "ConnorGray/Toolbox",
 	"PublisherID" -> "ConnorGray",
 	"Version" -> "0.0.1",
-	"WolframVersion" -> "12.3+",
+	"WolframVersion" -> "13.0+",
 	"Extensions" -> {
 		{
 			"Kernel",
 			"Root" -> "Kernel",
-			"Context" -> {
-				{"ConnorGray`Toolbox`", "Toolbox.wl"}
-			}
+			"Context" -> "ConnorGray`Toolbox`"
 		},
 		{"Documentation", "Language" -> "English"}
 	}
